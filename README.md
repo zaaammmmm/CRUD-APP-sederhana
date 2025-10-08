@@ -32,28 +32,28 @@ Didesain menggunakan gaya antarmuka yang bersih dan profesional dengan elemen Bo
 ### 1️⃣ Tampilan Awal
 Menampilkan daftar mahasiswa dalam tabel yang dilengkapi tombol **Tambah Data**, **Edit**, dan **Hapus**.
 
-![Tampilan Awal](./assets/tampilan-awal.png)
+![Tampilan Awal](./assets/img/tampilan-awal.png)
 
 ---
 
 ### 2️⃣ Form Tambah Data
 Digunakan untuk menambahkan data mahasiswa baru.
 
-![Form Tambah Data](./assets/add-data.png)
+![Form Tambah Data](./assets/img/add-data.png)
 
 ---
 
 ### 3️⃣ Form Edit Data
 Menampilkan data mahasiswa yang dapat diperbarui.
 
-![Form Edit Data](./assets/edit-data.png)
+![Form Edit Data](./assets/img/edit-data.png)
 
 ---
 
 ### 4️⃣ Konfirmasi Hapus Data
 Dialog untuk memastikan sebelum data mahasiswa dihapus.
 
-![Konfirmasi Hapus Data](./assets/delete-data.png)
+![Konfirmasi Hapus Data](./assets/img/delete-data.png)
 
 ---
 
