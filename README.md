@@ -39,21 +39,21 @@ Menampilkan daftar mahasiswa dalam tabel yang dilengkapi tombol **Tambah Data**,
 ### 2️⃣ Form Tambah Data
 Digunakan untuk menambahkan data mahasiswa baru.
 
-![Form Tambah Data](./assets/form-tambah-data.png)
+![Form Tambah Data](./assets/add-data.png)
 
 ---
 
 ### 3️⃣ Form Edit Data
 Menampilkan data mahasiswa yang dapat diperbarui.
 
-![Form Edit Data](./assets/form-edit-data.png)
+![Form Edit Data](./assets/edit-data.png)
 
 ---
 
 ### 4️⃣ Konfirmasi Hapus Data
 Dialog untuk memastikan sebelum data mahasiswa dihapus.
 
-![Konfirmasi Hapus Data](./assets/konfirmasi-hapus.png)
+![Konfirmasi Hapus Data](./assets/delete-data.png)
 
 ---
 
